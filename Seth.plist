@@ -23,12 +23,11 @@
     "/"     = "searchAllMessages:";
     "n"     = "nextMessage:";
     "p"     = "previousMessage:";
-    "e"     = "archive:";
+    "a"     = "archive:";
     "s"     = "toggleFlag:";
     "!"     = "moveToJunk:";
     "r"     = "reply:";
-    "a"     = "replyAll:";
+    "R"     = "replyAll:";
     "f"     = "forwardMessage:";
     "#"     = "deleteMessage:";
 }
-

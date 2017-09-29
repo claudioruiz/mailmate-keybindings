@@ -24,7 +24,7 @@ This keybindings file is focused on keyboard email handling so it has some easy 
   * **space** Scroll a page down in the currently displayed message
   * **shift-space** Scroll a page up in the currently displayed message
   * **u** Toggle the read state
-  * **e** Archive
+  * **a** Archive
   * **s** Toggle flag (star)
   * **r** Reply
   * **a** Reply-all
@@ -38,10 +38,12 @@ This keybindings file is focused on keyboard email handling so it has some easy 
 
 ## Installation
 
-Copy the `Seth.plist` file into `~/Library/Application Support/MailMate/Resources/KeyBindings` then type "Seth" into the "Custom Key Bindings" field in the General section of settings.
+Copy the `claudio.plist` file into `~/Library/Application Support/MailMate/Resources/KeyBindings` then type "claudio" into the "Custom Key Bindings" field in the General section of settings.
 
 ## What is MailMate?
 
 It's a great IMAP mail client for Mac OS X.  Look here: https://freron.com
+
+It solved my eternal search for a great, customizable and lightweight email app in OSX.
 
 If you buy it, you should consider becoming a patron: https://sites.fastspring.com/freron/product/mailmatepatron?referrer=5954
